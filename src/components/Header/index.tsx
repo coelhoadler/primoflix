@@ -2,7 +2,6 @@ import React from 'react';
 import LogoPrimo from '../../assets/LogoPrimo.png';
 
 import './Header.css';
-
 import ButtonLink from './components/button-link';
 
 function Header() {
