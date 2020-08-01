@@ -3,23 +3,12 @@
     background: url('../../assets/BannerPrimoFeliz.jpg') no-repeat;
     background-size: cover;
     height: 400px;
-    padding: 7rem 5rem 0
+    padding: 7rem 5% 0;
 }
 
 .title {
-    color: white;
-    font-size: 40px;
-}
-
-.button-youtubeChannel {
-    border: 2px solid var(--header-text-color);
     color: var(--header-text-color);
-    padding: 10px 42px;
-    border-radius: 10px;
-    text-transform: uppercase;
-    font-weight: 700;
-    transition: .2s ease;
-    text-decoration: none;
+    font-size: 40px;
 }
 
 @media (max-width: 800px) {

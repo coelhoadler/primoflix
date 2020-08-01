@@ -14,12 +14,12 @@ function Header() {
                     src={LogoPrimo}
                     alt="Logotipo do primo" />
             </a>
-            <ButtonLink
+            {/* <ButtonLink
                 className="ButtonLink" 
                 as="a"
                 href="/novo-video">
                 Novo vídeo
-            </ButtonLink>
+            </ButtonLink> */}
         </header>
     );
 }

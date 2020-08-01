@@ -1,6 +1,8 @@
 import React from 'react';
 import './index.css';
 
+import ButtonLink from './ButtonLink';
+
 function BannerMain() {
     return (
         <div className="BannerMain">
@@ -9,9 +11,9 @@ function BannerMain() {
                 <br />
                 mais influentes do país
             </h1>
-            <a href="https://www.youtube.com/user/thigas" className="button-youtubeChannel">
-                Visite meu canal
-            </a>
+            <ButtonLink as="a" href="https://www.youtube.com/user/thigas">
+                Meu canal
+            </ButtonLink>
         </div>
     );
 }
