@@ -1,11 +1,11 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "u9x53aqWnQd1_nErZaQU7qaSMIA",
-    "nextPageToken": "CAUQAA",
+    "etag": "_mystsSbzfQP9pYq9urCIGqeurk",
+    "nextPageToken": "CDIQAA",
     "regionCode": "BR",
     "pageInfo": {
       "totalResults": 503,
-      "resultsPerPage": 5
+      "resultsPerPage": 50
     },
     "items": [
       {
@@ -176,6 +176,1536 @@
           "channelTitle": "O Primo Rico",
           "liveBroadcastContent": "none",
           "publishTime": "2020-07-16T23:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dZdIhx5_JXqb7rcKGHUH4vgrPKw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nX6ZIQM3QMA"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-14T23:00:08Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "BOLSA ESTÁ DE VOLTA AOS 100 MIL! | E agora: ela está barata? Ou o pior está por vir?",
+          "description": "VAGAS ABERTAS NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp No dia 18 de março, o Ibovespa bateu 100 mil pontos pela primeira vez. Foi um ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nX6ZIQM3QMA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nX6ZIQM3QMA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nX6ZIQM3QMA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-14T23:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yJdjR1tMfLLsfYvPxN0LScSGRZI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jA-x-eiR69g"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-10T00:30:06Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "GUIA BÁSICO PARA EMPREENDER MELHOR! | Aprenda como fazer da sua EMPRESA + PRODUTIVA com 5 pilares!",
+          "description": "VAGAS ABERTAS NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp CLIQUE AQUI PARA ACESSAR O CONTA AZUL E MELHORAR OS PROCESSOS ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jA-x-eiR69g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jA-x-eiR69g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jA-x-eiR69g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-10T00:30:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6Kfh-jokDc6qlSN_o6B9D9PkIGg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ldPFj_B5Sio"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-06T20:17:55Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "PAULO GUEDES QUER TAXAR OS DIVIDENDOS! E agora? O que vai mudar nos investimentos?",
+          "description": "VAGAS ABERTAS NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp ACOMPANHE O DESAFIO DE 31 DIAS (todo dia às 5h06 da manhã): ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ldPFj_B5Sio/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ldPFj_B5Sio/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ldPFj_B5Sio/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-06T20:17:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1qNgQ8QWKalofViUrFwser47VFw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ygcz961MhDk"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-02T23:00:06Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "RUMO AO BILHÃO #17 | ZEREI MINHA POSIÇÃO EM UM FII! Ibovespa -16,8% e a carteira +2,55% em 2020?",
+          "description": "VAGAS ABERTAS NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp Agora vamos para o décimo sétimo episódio do quadro que antes era rumo ao ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ygcz961MhDk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ygcz961MhDk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ygcz961MhDk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-02T23:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "08x5RkHb-eatjzBlq_PUSy3pbzc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "alCOGCMRBvM"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-30T23:00:01Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "7 PRINCIPIOS DO REI SALOMÃO: um dos homens mais SÁBIOS e RICOS da história!",
+          "description": "SE INSCREVA NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp 1) Sabedoria condena o falso mérito - Nem sempre quem parece sábio, é, de fato, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/alCOGCMRBvM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/alCOGCMRBvM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/alCOGCMRBvM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-30T23:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iRnUFBWKYWhBuMOrwDV_QjjrbSg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "spqYMJe7XIs"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-23T23:00:11Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "10 PRINCÍPIOS de WARREN BUFFETT! | p/ investir MELHOR e ganhar mais dinheiro!",
+          "description": "SE INSCREVA NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/spqYMJe7XIs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/spqYMJe7XIs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/spqYMJe7XIs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-23T23:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6qH5H79HfhdtZcKN4PxJcyjnqug",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vN3SejW4VY8"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-18T19:00:14Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "URGENTE! A TAXA SELIC CAIU PARA 2,25%! | Mas é bom tomar cuidado com a pegadinha...",
+          "description": "SE INSCREVA NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp Abra sua conta na Rico: https://lp.rico.com.vc/lp/cadastre-se-primo-rico OUÇA O ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vN3SejW4VY8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vN3SejW4VY8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vN3SejW4VY8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-18T19:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "B3Rdpr7U9VH63phXEg0GL9vooOw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g-I7FWBHSI8"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-16T23:00:09Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "7 FORMAS DE GANHAR DINHEIRO NA INTERNET! (COMPROVADAS e que QUALQUER UM pode fazer)",
+          "description": "SE INSCREVA NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp CLIQUE AQUI PARA SABER TODAS AS FORMAS DE GANHAR DINHEIRO NA ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g-I7FWBHSI8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g-I7FWBHSI8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g-I7FWBHSI8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-16T23:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cYVMC8LWmc9fF7hWxc2YAOA8JzQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q51Vu0-0LQE"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-12T01:00:03Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "GUIA BÁSICO DE OPÇÕES! Aprenda a operar opções na bolsa mesmo sendo iniciante!",
+          "description": "SE INSCREVA NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q51Vu0-0LQE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q51Vu0-0LQE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q51Vu0-0LQE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-12T01:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wZLpv_5nFT3gb7bUuPK7tAg51nU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2XvQTmAG76Y"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-09T23:00:00Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "IBOVESPA QUASE NOS 100 MIL PONTOS! A crise na bolsa de valores acabou? O que fazer agora?",
+          "description": "SE INSCREVA NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2XvQTmAG76Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2XvQTmAG76Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2XvQTmAG76Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-09T23:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5IbBOozTFGq2Rag4Pfz8kMljehA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zMP3UiMUa20"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-04T23:00:14Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "Como PROTEGER a sua carteira de INVESTIMENTOS | Guia SIMPLES pra montar um HEDGE na PRÁTICA!",
+          "description": "Entre na fila de espera do curso do Mil ao Milhão: https://bit.ly/espera-mm-2020 Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zMP3UiMUa20/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zMP3UiMUa20/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zMP3UiMUa20/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-04T23:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l0PZoM2YtoOZ6nvxobeNXqMLrDc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d5MSyvGLW5M"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-02T23:00:09Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "RUMO AO BILHÃO #16 | HORA DOS FUNDOS IMOBILIARIOS? Carteira com valorização +158% mesmo c/ a CRISE!",
+          "description": "Clique neste link para fazer parte da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d5MSyvGLW5M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d5MSyvGLW5M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d5MSyvGLW5M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-02T23:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5W9gaCtYb7aVjFuRuHOAgttF0p4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Tgvw2MwTkww"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-29T23:00:14Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "O QUANTO EU JÁ GANHEI COM ALUGUEL DE AÇÕES EM 2020? (ARRZ3 chegou a pagar mais de 50% a.a.)",
+          "description": "Entre na fila de espera do curso do Mil ao Milhão: https://bit.ly/espera-mm-2020 Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tgvw2MwTkww/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tgvw2MwTkww/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tgvw2MwTkww/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-29T23:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DfnjDcm7xir6r4PAhFg_D1HZOAI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "16lr-G4s9KY"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T23:00:01Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "AS 11 REGRAS DO MICHAEL JORDAN PRO SUCESSO! (e que você pode aplicar AGORA na sua vida)",
+          "description": "Entre na fila de espera do curso do Mil ao Milhão: https://bit.ly/espera-mm-2020 Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/16lr-G4s9KY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/16lr-G4s9KY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/16lr-G4s9KY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T23:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6fnVBWxLixHDMYvZPCkA0dN4zeE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DKKuk2agHyI"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-22T23:00:07Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "ONDE COLOCAR A RESERVA DE EMERGÊNCIA COM TAXA SELIC EM 3%",
+          "description": "Entre na fila de espera do curso do Mil ao Milhão: https://bit.ly/espera-mm-2020 Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DKKuk2agHyI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DKKuk2agHyI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DKKuk2agHyI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-22T23:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3Sxqw2ySuZpiCRK9IFJ2CFuqDOM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SvFPAtGJhJ8"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-19T23:00:14Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "Como EU COMPREI um imóvel ABAIXO do preço NA CRISE! (e fiz um bom negócio)",
+          "description": "Entre na fila de espera do curso do Mil ao Milhão: https://bit.ly/espera-mm-2020 Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SvFPAtGJhJ8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SvFPAtGJhJ8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SvFPAtGJhJ8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-19T23:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2DU6nGYTDauFGD8jk5nf0-kvCZw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "e5_OZBLraPs"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-14T23:00:09Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "OS 11 SINAIS de empresas que você investe e NÃO VÃO sobreviver a crise! (Podem falir em breve!)",
+          "description": "Assine a Conta Azul com 12% de desconto: https://bit.ly/2Ltg4Zl 1) Não ter Proximidade com a Tecnologia - Nessa crise atual, é fato: empresas na bolsa de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e5_OZBLraPs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e5_OZBLraPs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e5_OZBLraPs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-14T23:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6kGc3mwGB_FEy5_uotwA1WbhD90",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LGaEZaBm0s0"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-12T23:05:51Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "INVESTI R$ 1.814,70 NO IVVB11! Como investir nas 500 maiores ações dos EUA com pouco dinheiro!",
+          "description": "Entre na fila de espera do curso do Mil ao Milhão: https://bit.ly/espera-mm-2020 Abra sua conta na Rico: https://bit.ly/cadastraseprimorico OUÇA O PRIMOCAST: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LGaEZaBm0s0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LGaEZaBm0s0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LGaEZaBm0s0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-12T23:05:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0N6c8W_s23brDSIOtd-H2H0iQUQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1QoPEKlAZxE"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-07T23:00:01Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "OS 6 HÁBITOS DE INVESTIMENTO E NEGÓCIOS QUE PODEM SUMIR APÓS A CRISE!",
+          "description": "Link para se cadastrar no Compra Certa e ter acesso gratuito ao clube de compras: https://bit.ly/2Q5r3ux Cupom de desconto: PRIMORICO150 Regra: R$ 150 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1QoPEKlAZxE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1QoPEKlAZxE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1QoPEKlAZxE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-07T23:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gkZWCYMH7IqXcQXdLXQNI_DKYLk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3XLlu8GC2gg"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-06T22:14:02Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "URGENTE! A TAXA SELIC CAIU PARA 3%! | QUAL O IMPACTO NOS SEUS INVESTIMENTOS?",
+          "description": "Clique neste link para fazer parte da LISTA VIP da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3XLlu8GC2gg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3XLlu8GC2gg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3XLlu8GC2gg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-06T22:14:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wzyYSVFqmcMSRyPNAd8rVM7Vqk0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hKmw6V03lGY"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-05T23:00:08Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "RUMO AO BILHÃO #15 | Como estão meus INVESTIMENTOS durante a quarentena?",
+          "description": "Clique neste link para fazer parte da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hKmw6V03lGY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hKmw6V03lGY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hKmw6V03lGY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-05T23:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Cx1abyLEE25lOwTlJXi_td2KgdY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q5ZJ6-gGeKg"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-30T23:00:08Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "O QUE EU FALARIA PRA THELMA DO BBB20 (Pra NUNCA mais faltar dinheiro na vida dela)",
+          "description": "Clique neste link para fazer parte da lista de espera do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q5ZJ6-gGeKg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q5ZJ6-gGeKg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q5ZJ6-gGeKg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-30T23:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "35XVLyb5rdkzQvRj6sQI9_6ejmA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SJH9xx1-DYI"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-28T23:00:12Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "OS 6 TIPOS DE EMPRESAS NA BOLSA DE VALORES – e como analisar cada uma delas",
+          "description": "Clique neste link para fazer parte da lista de espera do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SJH9xx1-DYI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SJH9xx1-DYI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SJH9xx1-DYI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-28T23:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-LAuBJL09EmInVPx59xNalfrPNg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1Rhoyr2MnFE"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-25T00:00:00Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "MORO PEDE DEMISSÃO. O QUE MUDA NOS SEUS INVESTIMENTOS?",
+          "description": "Clique neste link para fazer parte da lista de espera do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1Rhoyr2MnFE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1Rhoyr2MnFE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1Rhoyr2MnFE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-25T00:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OFtnKp10B1iZ2BlQf3egkAXPUK8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "G57XOmC7dlY"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-23T23:00:06Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "8 HÁBITOS QUE TODO INVESTIDOR RICO TEM (e que os pobres não)",
+          "description": "Clique neste link para fazer parte da lista de espera do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G57XOmC7dlY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G57XOmC7dlY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G57XOmC7dlY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-23T23:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Woi1nhtf9yY1GLKYeDNR-uBtN-Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6oPunZq7_LU"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-16T23:00:02Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "Não olhe para o P/L antes de olhar esse INDICADOR! (PEG Ratio)",
+          "description": "Clique neste link para fazer parte da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6oPunZq7_LU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6oPunZq7_LU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6oPunZq7_LU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-16T23:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HOhrGYRqT0PWE4EChApQawEdKq8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xRH0bOk1dM4"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-14T23:00:27Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "Os donos das EMPRESAS DA BOLSA estão VENDENDO SUAS AÇÕES na crise?",
+          "description": "LINK PARA ACESSAR O NOSSO TELEGRAM DO DESAFIO: https://t.me/desafio21h57 Já imaginou se você pudesse descobrir se os donos das empresas que ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xRH0bOk1dM4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xRH0bOk1dM4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xRH0bOk1dM4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-14T23:00:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ujWGjY06cctRlfX-nyn-ElAQ--w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qV-SUf1PzKQ"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-11T23:10:01Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "A SEMENTE DE OURO! #FiqueEmCasa e Aprenda com o #Primo",
+          "description": "LINK PARA ACESSAR O NOSSO TELEGRAM: https://t.me/desafio21h57 E, mesmo que você já tenha me acompanhado aqui no canal por muito tempo, ou que ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qV-SUf1PzKQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qV-SUf1PzKQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qV-SUf1PzKQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-11T23:10:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iI48GO5o5a5Yb8kzMKzAeNuRWDs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FdXCH8Yofn8"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-07T23:33:52Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "O QUE A CRISE MUDOU NA MINHA METODOLOGIA DE INVESTIMENTOS?",
+          "description": "Primos, quero te conhecer, responda essa pesquisa rápida: http://thiagonigro.pergunteme.com.br/ Estamos em crise. Uma crise que ninguém estava esperando ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FdXCH8Yofn8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FdXCH8Yofn8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FdXCH8Yofn8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-07T23:33:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rm5ixYYtVPmlV-mVkGUufW6zJZg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m2P3ybG0Uco"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-03T00:00:11Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "RUMO AO BILHÃO #14 | O MAIOR DA HISTÓRIA! Onde investi o meu DINHEIRO durante a crise?",
+          "description": "Clique neste link para fazer parte da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m2P3ybG0Uco/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m2P3ybG0Uco/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m2P3ybG0Uco/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-03T00:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sQgm4LNegiy1nFnUe9Z0M1yDJIc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iLhdlbe4V0o"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-31T23:00:10Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "AS 10 MELHORES PAGADORAS DE DIVIDENDOS DA CRISE!",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Clique neste link para fazer parte da minha nova turma do curso de investimentos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iLhdlbe4V0o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iLhdlbe4V0o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iLhdlbe4V0o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-31T23:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zPyW9yKxJGppYISm3HpugrxTyNo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2Sj9Hj1WXis"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-26T23:00:01Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "COMO INVESTIR BEM NA CRISE! | 4 passos para escolher BOAS empresas",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Clique neste link para fazer parte da minha nova turma do curso de investimentos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2Sj9Hj1WXis/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2Sj9Hj1WXis/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2Sj9Hj1WXis/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-26T23:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uQ3hDaxtM4X5u3DZXvINjmLkOpc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "APQQ8VricZM"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-25T13:00:04Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "O Código da Riqueza: Episódio 2 | A verdadeira Riqueza.",
+          "description": "Clique neste link para fazer parte da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/APQQ8VricZM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/APQQ8VricZM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/APQQ8VricZM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-25T13:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yl-c0R1RZvhe9ogX85IKNeIpKDM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p2TZpro1cYA"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-20T22:04:06Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "A MELHOR OPORTUNIDADE DA DÉCADA?",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Clique neste link para fazer parte da minha nova turma do curso de investimentos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p2TZpro1cYA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p2TZpro1cYA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p2TZpro1cYA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-20T22:04:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MDKKbrux7QINL2RSLSYo9hQMzbg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IrUk-etAswE"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-19T23:00:06Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "O que WARREN BUFFETT está fazendo nessa crise? E o que ele fez nas últimas?",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Clique neste link para fazer parte da minha nova turma do curso de investimentos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IrUk-etAswE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IrUk-etAswE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IrUk-etAswE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-19T23:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "U-FSnY80RiDnb4I4To7ZH_iAqo8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MsMzNua43kE"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-19T00:00:10Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "MAIS UM CIRCUIT BREAKER NA BOLSA! E os fundos imobiliarios (FIIs)? é hora de comprar?",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Clique neste link para fazer parte da minha nova turma do curso de investimentos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MsMzNua43kE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MsMzNua43kE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MsMzNua43kE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-19T00:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0_2I4YOyg-7Gn0G43PUUBPVvDh0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "22-tzM1FBD0"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-16T23:00:01Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "BOLSA DE VALORES CAIU 13,92%! E agora? ela está barata? É hora de comprar?",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Canal do Breno Perrucho: https://www.youtube.com/user/nicolinoperrucho/featured Clique ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/22-tzM1FBD0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/22-tzM1FBD0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/22-tzM1FBD0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-16T23:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rRkh7tv_tvM4UwQVVPHiKSf5sjc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ciTykfdcz6c"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-12T22:00:07Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "BOLSA ABAIXO DOS 70 MIL! DÓLAR NOS R$5! 2 CIRCUIT BREAKERS EM 1 DIA! VOLTAMOS AO PATAMAR DE 2008?",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Clique neste link para fazer parte da minha nova turma do curso de investimentos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ciTykfdcz6c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ciTykfdcz6c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ciTykfdcz6c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-12T22:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Pt21LkHZKtpq_UTQd4_MZj5wmWo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Fndhqz0wn8o"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-11T23:30:02Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "A BOLSA NÃO PARA DE CAIR! 7% DE QUEDA HOJE! Chegamos ao fundo do poço?",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Clique neste link para fazer parte da minha nova turma do curso de investimentos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fndhqz0wn8o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fndhqz0wn8o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fndhqz0wn8o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-11T23:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "abBMS4YqWpk63s5-VYyby2MoIlQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Mam8mjXxDBo"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-10T23:00:04Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "QUANTO CUSTA MORAR SOZINHO? | Cálculos REAIS e SIMPLES!",
+          "description": "ENTRE GRATUITAMENTE NO COMPRA CERTA COM O CONVITE DO PRIMO: https://bit.ly/2Q5r3ux Cupom de desconto exclusivo para os primos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mam8mjXxDBo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mam8mjXxDBo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mam8mjXxDBo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-10T23:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KRqa2UQt4rteAOIa93iK0qLLn1o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eU22ePXt_xI"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-09T23:00:10Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "A PIOR QUEDA DA DÉCADA! PÂNICO NA BOLSA DE VALORES! E agora? O que fazer?",
+          "description": "ESSE VÍDEO NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO.* Clique neste link para fazer parte da minha nova turma do curso de investimentos: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eU22ePXt_xI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eU22ePXt_xI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eU22ePXt_xI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-09T23:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "joVCcwGpBwx4YI4VgHDeOuJuYY4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7U_2g1POsVI"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-05T23:00:00Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "COMO VOU EMAGRECER 23KG EM 4 MESES! (E a relação entre dieta e investimentos!)",
+          "description": "Mude1HábitoPrimo #Mude1Hábito #Unimed Clique neste link para fazer parte da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7U_2g1POsVI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7U_2g1POsVI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7U_2g1POsVI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-05T23:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l7VBKzpSolvAoQY9UMDixy5iLqg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dNWY-fK7OLY"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-05T00:30:01Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "O QUE ESTÁ ACONTECENDO COM AS AÇÕES DA IRB? (IRBR3) | Caiu mais de 30% EM UM DIA!",
+          "description": "Clique aqui para ver as ofertas especiais de aniversário da Suno: http://bit.ly/2TbufXy Clique aqui pra aprender inglês na Wise Up: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dNWY-fK7OLY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dNWY-fK7OLY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dNWY-fK7OLY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-05T00:30:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "31ZOmXbtDM4ptu1fePVCzsIsmxo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "10l9_GrWR30"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-03T23:30:02Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "RUMO AO BILHÃO #13 | O QUE EU FIZ C/ MEU DINHEIRO NA PIOR QUEDA DO ANO?",
+          "description": "Clique neste link para fazer parte da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/10l9_GrWR30/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/10l9_GrWR30/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/10l9_GrWR30/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-03T23:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n3a2VZM5TJElBayoWBiwdTImRDg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nbNhzFiZ-5Q"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-02T23:00:08Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "PERDI R$379.982,02 REAIS EM 3 DIAS DE BOLSA! E agora?",
+          "description": "Clique neste link para fazer parte da minha nova turma do curso de investimentos: http://bit.ly/listaVIP-YT-19 Abra sua conta na Rico: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nbNhzFiZ-5Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nbNhzFiZ-5Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nbNhzFiZ-5Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-02T23:00:08Z"
         }
       }
     ]
