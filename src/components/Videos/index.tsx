@@ -46,7 +46,7 @@ class Videos extends Component {
     }
 
     private async _getVideos(): Promise<any> {
-        const key = `AIzaSyA3eoevnwGM7-LMyJvetFRO9kbhmzQpQ9g`;
+        const key = `AIzaSyBCZRe68koxuJm-pu8B3cwgf5LgtQgchkE`;
         const channelId = `UCT4nDeU5pv1XIGySbSK-GgA`;
         const URL = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&key=${key}&channelId=${channelId}&order=date&maxResults=100`;
         return await fetch(URL).then(json => json.json());
