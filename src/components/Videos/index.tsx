@@ -17,6 +17,7 @@ class Videos extends Component {
     public render() {
         return (
             <section className="videos-list">
+                <h2>Meus vídeos mais recentes</h2>
                 <div className="videos-list__wrapper">
                     {this.state.videos.map((item: any) => {
                         return (

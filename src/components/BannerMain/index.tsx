@@ -9,10 +9,10 @@ function BannerMain() {
             <h1 className="title">
                 Um dos investidores 
                 <br />
-                mais influentes do país
+                <span>mais influentes</span> do país
             </h1>
-            <ButtonLink as="a" href="https://www.youtube.com/user/thigas">
-                Meu canal
+            <ButtonLink as="a" href="https://www.oprimorico.com.br/" target="_blank">
+                Conheça o primo
             </ButtonLink>
         </div>
     );

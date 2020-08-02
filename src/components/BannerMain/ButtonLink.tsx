@@ -7,8 +7,13 @@ const ButtonLink = styled.button`
     border-radius: 10px;
     text-transform: uppercase;
     font-weight: 700;
-    transition: .2s ease;
+    transition: all .5s ease-out;
     text-decoration: none;
+    &:hover,
+    &:focus {
+        background-color: var(--strongest-color);
+        transition: all .5s ease-in;
+    }
 `;
 
 export default ButtonLink;

@@ -1,14 +1,24 @@
 .BannerMain {
     position: relative;
-    background: url('../../assets/BannerPrimoFeliz.jpg') no-repeat;
+    background: url('../../assets/BannerPrimoFeliz.jpg') no-repeat center;
     background-size: cover;
     height: 400px;
-    padding: 7rem 5% 0;
+    padding: 4rem 5% 0;
 }
 
 .title {
     color: var(--header-text-color);
-    font-size: 40px;
+    font-size: 58px;
+}
+
+.title span {
+    background-color: var(--strongest-color);
+}
+
+@media (max-width: 1250px) {
+    .title {
+        font-size: 40px;
+    }    
 }
 
 @media (max-width: 800px) {

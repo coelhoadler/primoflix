@@ -1,9 +1,17 @@
+.videos-list > h2 {
+    padding-left: 5%;
+    
+    color: var(--videos-title-color);
+    font-size: 48px;
+}
+
 .videos-list__wrapper { 
     display: grid;
     padding: 5%;
     grid-template-columns: repeat( auto-fit, 320px);
     grid-column-gap: 110px;
     grid-row-gap: 30px;
+    padding-top: 0;
 }
 
 .videos-list__wrapper__item { 
