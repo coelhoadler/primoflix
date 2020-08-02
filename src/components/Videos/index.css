@@ -17,6 +17,7 @@
 .videos-list__wrapper__item { 
     min-width: 320px;
     width: 320px;
+    position: relative;
 }
 
 .videos-list__wrapper__item-link {
@@ -37,6 +38,17 @@
     text-overflow: ellipsis;
     font-size: 18px;
     line-height: 25px;    
+}
+
+.videos-list__wrapper__item-date {
+    background-color: var(--strongest-color);
+    position: absolute;
+    right: 10px;
+    margin-top: -39px;
+
+    padding: .2rem;
+    border-radius: 6px;
+    opacity: 0.8;
 }
 
 .videos-list__wrapper__item-description {

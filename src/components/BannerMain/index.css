@@ -23,8 +23,6 @@
 
 @media (max-width: 800px) {
     .BannerMain {
-        position: relative;
-        background-position: center;
         height: 360px;
         padding: 3rem 2rem 0
     }
