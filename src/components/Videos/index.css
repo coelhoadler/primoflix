@@ -1,13 +1,14 @@
 .videos-list__wrapper { 
-    display: flex;
-    flex-wrap: wrap;
-    padding: 5%;    
+    display: grid;
+    padding: 5%;
+    grid-template-columns: repeat( auto-fit, 320px);
+    grid-column-gap: 110px;
+    grid-row-gap: 30px;
 }
 
 .videos-list__wrapper__item { 
     min-width: 320px;
     width: 320px;
-    margin: 0 105px 15px 0;
 }
 
 .videos-list__wrapper__item-link {
