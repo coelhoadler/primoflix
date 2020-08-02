@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import * as Mock from '../../assets/mock.json'
 import './index.css';
 
 class Videos extends Component {
@@ -8,10 +9,12 @@ class Videos extends Component {
     }
 
     public componentDidMount() {
-        this._getVideos().then((response: any) => {
-            this.setState({ videos: response.items })
-            console.log('data', this.state.videos[0]);
-        });
+        const aux: any = Mock;
+        this.setState({ videos: aux['default']['items'] })
+        
+        // this._getVideos().then((response: any) => {
+        //     this.setState({ videos: response.items })
+        // });
     }
 
     public render() {

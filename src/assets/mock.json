@@ -1,0 +1,183 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "u9x53aqWnQd1_nErZaQU7qaSMIA",
+    "nextPageToken": "CAUQAA",
+    "regionCode": "BR",
+    "pageInfo": {
+      "totalResults": 503,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "72GEnyNHi1Jozc9pMxGoCXv8KLA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GyEVGyCa5xk"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-30T23:00:03Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "ITAUSA (ITSA4) ESTÁ BARATA? | Calculando o PREÇO JUSTO de uma ação NA PRÁTICA!",
+          "description": "ESTE VÍDEO NÃO É UMA RECOMENDAÇÃO DE COMPRA! Valuation em etapas: Etapa 1: Descobrir o WACC / a Taxa de Desconto Ke = TJLP + 4% = 4,91% + ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GyEVGyCa5xk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GyEVGyCa5xk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GyEVGyCa5xk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-30T23:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jONFQhZ70j7KYeQhnUKGebhxM5k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kt8YJ1i6GFo"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-28T23:00:07Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "EXISTEM 3 TIPOS DE PESSOAS QUE NUNCA VÃO ENRIQUECER! | Mas tem 2 tipos que vão... (qual deles vc é?)",
+          "description": "Link para se cadastrar no Compra Certa e ter acesso gratuito ao clube de compras: https://bit.ly/2Q5r3ux OS 5 TIPOS DE PESSOAS: ADIÇÃO - São as pessoas ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kt8YJ1i6GFo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kt8YJ1i6GFo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kt8YJ1i6GFo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-28T23:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vdczandGFBivxIfPHT6oIDt6OWk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PPYg9hef0Yg"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-24T00:49:36Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "A ARCA: Como INVESTIR pra SOBREVIVER a QUALQUER CRISE (e ainda ganhar dinheiro)",
+          "description": "VAGAS ABERTAS NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp Nesta live exclusiva ao vivo, eu te mostrarei como montar a sua carteira de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PPYg9hef0Yg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PPYg9hef0Yg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PPYg9hef0Yg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-24T00:49:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eUuyHphgmhhcYyrlMq2iezNaRNA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TvLL4fGia9E"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-21T23:00:08Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "6 COISAS QUE VOCÊ NÃO DEVE PERDER SEU TEMPO! (mas que você pode estar perdendo)",
+          "description": "VAGAS ABERTAS NA MENTORIA DO MIL AO MILHÃO: https://bit.ly/3jtQ8wp 1) Não perca seu tempo com investimentos de “130% do CDI” - Qual o ponto?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TvLL4fGia9E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TvLL4fGia9E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TvLL4fGia9E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-21T23:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tiad7bYID75QZalmHUCsNraHrIo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tp7x_w7kOh0"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-16T23:00:06Z",
+          "channelId": "UCT4nDeU5pv1XIGySbSK-GgA",
+          "title": "POR QUE EU NUNCA MAIS VOU VOLTAR PRO ESCRITÓRIO?",
+          "description": "CONHEÇA O CISCO WEBEX: https://bit.ly/3j8H5kn - Segundo estudo do professor da Fundação Getulio Vargas, André Miceli, o home office deve crescer 30% ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tp7x_w7kOh0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tp7x_w7kOh0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tp7x_w7kOh0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O Primo Rico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-16T23:00:06Z"
+        }
+      }
+    ]
+  }
+  
