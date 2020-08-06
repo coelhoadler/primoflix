@@ -18,8 +18,8 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "start": "YOUTUBE_API_KEY=AIzaSyAbDbraMA9sKuCkgJ3Kh0Z-by-5hSRKQA0 react-scripts start",
-    "build": "YOUTUBE_API_KEY=AIzaSyAbDbraMA9sKuCkgJ3Kh0Z-by-5hSRKQA0 react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

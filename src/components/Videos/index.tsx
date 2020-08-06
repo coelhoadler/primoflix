@@ -90,8 +90,7 @@ class Videos extends Component {
     }
 
     private async _getVideos(): Promise<any> {
-        const key = process.env.YOUTUBE_API_KEY;
-        console.log('key', key);
+        const key = "AIzaSyAbDbraMA9sKuCkgJ3Kh0Z-by-5hSRKQA0";
         const channelId = `UCT4nDeU5pv1XIGySbSK-GgA`;
         const URL = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&key=${key}&channelId=${channelId}&order=date&maxResults=100`;
         return await fetch(URL).then(json => json.json());
