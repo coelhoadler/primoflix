@@ -10,16 +10,19 @@ class Videos extends Component {
     }
 
     public componentDidMount() {
-        setTimeout(() => {
-            this.setState({
-                videos: videos['items'],
-                loading: false
-            })
-        }, 5000);
-
-        // this._getVideos().then((response: any) => {
-        //     this.setState({ videos: response.items })
-        // });
+        let videos = localStorage.getItem('videos');
+        if (!videos) {
+            this._getVideos().then((response: any) => {
+                this.setState({ 
+                    videos: response.items,
+                    loading: false
+                });
+    
+                localStorage.setItem('videos', JSON.stringify(response.items))
+            });
+        } else {
+            this._setVideos(JSON.parse(videos));
+        }
     }
 
     public render() {
@@ -87,10 +90,20 @@ class Videos extends Component {
     }
 
     private async _getVideos(): Promise<any> {
-        const key = `AIzaSyBCZRe68koxuJm-pu8B3cwgf5LgtQgchkE`;
+        const key = process.env.YOUTUBE_API_KEY;
+        console.log('key', key);
         const channelId = `UCT4nDeU5pv1XIGySbSK-GgA`;
         const URL = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&key=${key}&channelId=${channelId}&order=date&maxResults=100`;
         return await fetch(URL).then(json => json.json());
+    }
+
+    private _getMockVideos(): void {
+        setTimeout(() => {
+            this.setState({
+                videos: videos['items'],
+                loading: false
+            })
+        }, 5000);        
     }
 
     private _transformDate(publishedAt: string): string {
@@ -98,6 +111,13 @@ class Videos extends Component {
         const day = date.getDate().toString().padStart(2, '0');
         const month = (date.getMonth() + 1).toString().padStart(2, '0');
         return `${day}/${month}`
+    }
+
+    private _setVideos(videos: any):void {
+        this.setState({ 
+            videos: videos,
+            loading: false
+        });        
     }
 
 }

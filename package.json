@@ -18,7 +18,7 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start -- -YOUTUBE_API_KEY=AIzaSyAbDbraMA9sKuCkgJ3Kh0Z-by-5hSRKQA0",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -41,6 +41,7 @@
   "devDependencies": {
     "@types/react-router-dom": "^5.1.5",
     "@types/styled-components": "^5.1.2",
+    "dotenv": "^8.2.0",
     "prettier": "^2.0.5"
   }
 }
