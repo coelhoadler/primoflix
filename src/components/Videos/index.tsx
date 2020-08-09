@@ -5,7 +5,7 @@ import Loader from '../Loader';
 import './index.css';
 
 import { VideoListItemLink, VideoListItemImg } from './VideoListItem';
-import moment, { Moment } from 'moment';
+import moment from 'moment';
 
 class Videos extends Component {
 
@@ -15,7 +15,6 @@ class Videos extends Component {
     }
 
     public componentDidMount() {
-        console.log('key: ', process.env.REACT_APP_TESTE);
         const videos = localStorage.getItem('videos');
         const lastTime = this._verifyLastTime();
 
@@ -65,7 +64,7 @@ class Videos extends Component {
                 </section>
             )
         } else {
-            return (<Loader />)
+            return <Loader />
         }
 
     }
