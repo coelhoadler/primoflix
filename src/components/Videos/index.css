@@ -20,15 +20,6 @@
     position: relative;
 }
 
-.videos-list__wrapper__item-link {
-    text-decoration: none;
-}
-
-.videos-list__wrapper__item-img {
-    border-radius: 10px;
-    border: 2px solid var(--header-text-color);
-}
-
 .videos-list__wrapper__item-title {
     color: var(--videos-title-color);
     display: -webkit-box;
@@ -56,25 +47,4 @@
     color: var(--videos-description-color);
     font-size: 14px;
     line-height: 20px;    
-}
-
-/* Adicionando um loader */
-
-.loader {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: var(--bgColor);
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.loader .svg-loader{
-    height: 20vmin;
-    padding: 3vmin 20vmin;
-    vertical-align: top;
 }

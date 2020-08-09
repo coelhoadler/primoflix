@@ -11,7 +11,7 @@ function App() {
       <Header />
       <BannerMain />
       <Videos />
-      <Footer />
+      <Footer />     
     </div>
   );
 }

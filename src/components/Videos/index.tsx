@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 import videos from '../../assets/mock.json';
+import Loader from '../Loader';
+
 import './index.css';
+
+import { VideoListItemLink, VideoListItemImg } from './VideoListItem';
+import moment, { Moment } from 'moment';
 
 class Videos extends Component {
 
@@ -10,16 +15,20 @@ class Videos extends Component {
     }
 
     public componentDidMount() {
-        let videos = localStorage.getItem('videos');
-        if (!videos) {
+        console.log('key: ', process.env.REACT_APP_TESTE);
+        const videos = localStorage.getItem('videos');
+        const lastTime = this._verifyLastTime();
+
+        if (!videos || lastTime >= 2) {
             this._getVideos().then((response: any) => {
                 this.setState({ 
                     videos: response.items,
                     loading: false
                 });
     
-                localStorage.setItem('videos', JSON.stringify(response.items))
-            });
+                localStorage.setItem('videos', JSON.stringify(response.items));
+                localStorage.setItem('lastTime', JSON.stringify(new Date().getTime()));
+            })
         } else {
             this._setVideos(JSON.parse(videos));
         }
@@ -34,21 +43,21 @@ class Videos extends Component {
                         {this.state.videos.map((item: any) => {
                             return (
                                 <div className="videos-list__wrapper__item" key={item.id.videoId}>
-                                    <a
-                                        className="videos-list__wrapper__item-link"
+                                    <VideoListItemLink
+                                        className=".videos-list__wrapper__item-link"
                                         href={`https://www.youtube.com/watch?v=${item.id.videoId}`}
                                         target="_blank">
-                                        <img
+                                        <VideoListItemImg
                                             className="videos-list__wrapper__item-img"
                                             src={item.snippet.thumbnails.medium.url}
                                             alt="Thumb do vídeo" >
-                                        </img>
+                                        </VideoListItemImg>
                                         <span className="videos-list__wrapper__item-date">{this._transformDate(item.snippet.publishedAt)}</span>
                                         <h2 className="videos-list__wrapper__item-title" title={item.snippet.title}>{item.snippet.title}</h2>
                                         <p className="videos-list__wrapper__item-description" title={item.snippet.description}>
                                             {item.snippet.description}
                                         </p>
-                                    </a>
+                                    </VideoListItemLink>
                                 </div>
                             )
                         })}
@@ -56,35 +65,7 @@ class Videos extends Component {
                 </section>
             )
         } else {
-            return (
-                <div className="loader">
-                    <svg version="1.1"
-                        className="svg-loader"
-                        x="0px"
-                        y="0px"
-                        viewBox="0 0 80 80" >
-
-                        <path
-                            id="spinner"
-                            fill="#D43B11"
-                            d="M40,72C22.4,72,8,57.6,8,40C8,22.4,
-		22.4,8,40,8c17.6,0,32,14.4,32,32c0,1.1-0.9,2-2,2
-		s-2-0.9-2-2c0-15.4-12.6-28-28-28S12,24.6,12,40s12.6,
-		28,28,28c1.1,0,2,0.9,2,2S41.1,72,40,72z"
-                        >
-                            <animateTransform
-                                attributeType="xml"
-                                attributeName="transform"
-                                type="rotate"
-                                from="0 40 40"
-                                to="360 40 40"
-                                dur="0.6s"
-                                repeatCount="indefinite"
-                            />
-                        </path>
-                    </svg>
-                </div>
-            )
+            return (<Loader />)
         }
 
     }
@@ -96,13 +77,12 @@ class Videos extends Component {
         return await fetch(URL).then(json => json.json());
     }
 
-    private _getMockVideos(): void {
-        setTimeout(() => {
-            this.setState({
-                videos: videos['items'],
-                loading: false
-            })
-        }, 5000);        
+    private _getMockVideos(): Promise<any> {
+        return new Promise((resolve, reject) => {
+            setInterval(() => {
+                resolve(videos);
+            }, 2000);
+        });
     }
 
     private _transformDate(publishedAt: string): string {
@@ -117,6 +97,18 @@ class Videos extends Component {
             videos: videos,
             loading: false
         });        
+    }
+
+    private _verifyLastTime(): number {
+        const lastTime = localStorage.getItem('lastTime');
+
+        if (lastTime) {
+            const actualDate = moment();
+            const pastDate = moment(new Date(JSON.parse(lastTime)));
+
+            return actualDate.diff(pastDate, 'days');
+        }
+        return 0;
     }
 
 }
